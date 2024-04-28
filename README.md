@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on C++ Engine and Game
 - 🌱 I’m currently learning Go, Cmake, C++
-- 😄 Pronouns: he/hims
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Hate Python! :(
 
